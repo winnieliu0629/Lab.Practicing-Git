@@ -29,3 +29,12 @@ git remote add origin YOUR-GITHUB-LINK-HERE
 git branch -M main
 git push -u origin main
 ```
+
+### step 5: adding new changes
+
+```
+git add .
+git status
+git commit -m "changes readme text"
+git push
+```
